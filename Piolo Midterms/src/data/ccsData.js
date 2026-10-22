@@ -36,32 +36,32 @@ export const departments = [
   {
     name: "Office of the Dean",
     members: [
-      { id: 1, name: "Prof. Ma. Christine Gloria", degree: "Doctor of Information Technology" },
-      { id: 2, name: "Prof. Victor Jose", degree: "Master of Science in Computer Science" },
-      { id: 3, name: "Ms. Elena R. Santos", degree: "Administrative Secretary" }
+      { id: 1, name: "", degree: "Doctor of Information Technology" },
+      { id: 2, name: "", degree: "Master of Science in Computer Science" },
+      { id: 3, name: "", degree: "Administrative Secretary" }
     ]
   },
   {
     name: "Information Technology Dept",
     members: [
-      { id: 4, name: "Engr. Alan V. Perez", degree: "Master in Information Technology" },
-      { id: 5, name: "Prof. Sarah L. Gomez", degree: "Master of Science in IT" },
-      { id: 6, name: "Inst. Roberto Diaz", degree: "BS Information Technology" }
+      { id: 4, name: "", degree: "Master in Information Technology" },
+      { id: 5, name: "", degree: "Master of Science in IT" },
+      { id: 6, name: "", degree: "BS Information Technology" }
     ]
   },
   {
     name: "Computer Science & DMIA Dept",
     members: [
-      { id: 7, name: "Dr. Michael Tan", degree: "Ph.D. in Computer Science" },
-      { id: 8, name: "Prof. Karen Joy Flores", degree: "MS in Computer Science" },
-      { id: 9, name: "Inst. David Mark Reyes", degree: "BS Digital Media & Interactive Arts" }
+      { id: 7, name: "", degree: "Ph.D. in Computer Science" },
+      { id: 8, name: "", degree: "MS in Computer Science" },
+      { id: 9, name: "", degree: "BS Digital Media & Interactive Arts" }
     ]
   },
   {
     name: "Library & Information Science Dept",
     members: [
-      { id: 10, name: "Prof. Maria Clara Ramos", degree: "Master in Library & Info Science" },
-      { id: 11, name: "Inst. Joseph Mercado", degree: "Bachelor of Library & Info Science" }
+      { id: 10, name: "", degree: "Master in Library & Info Science" },
+      { id: 11, name: "", degree: "Bachelor of Library & Info Science" }
     ]
   }
 ]
